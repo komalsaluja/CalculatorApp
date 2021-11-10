@@ -1,4 +1,4 @@
 # CalculatorApp
 
-My first android app project
-Calculator ith basic operations
+My first android app project. 
+Calculator with basic operations
